@@ -66,9 +66,6 @@
       <tr>
         <td colspan="2" align="center">
           <input type="submit">
-      </tr> 
-
-
-    </table>
+      
   
 
