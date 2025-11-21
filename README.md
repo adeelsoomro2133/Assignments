@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <head>
   <title>Report Form</title>
@@ -70,7 +70,5 @@
 
 
     </table>
- </form>
   
- </body>
-</html>
+
