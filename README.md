@@ -55,7 +55,7 @@
 
      <tr>
        <td>Hobbies :</td> 
-       <td><input type="checkbox">Listening Music<input type="checkbox">Swimming<input type="checkbox">Gaming</td>
+       <td><input type="checkbox">Listening Music<br><input type="checkbox">Swimming<input type="checkbox">Gaming</td>
      </tr>
 
      <tr>
